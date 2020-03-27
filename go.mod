@@ -1,4 +1,4 @@
-module github.com/olekukonko/tablewriter
+module github.com/cockroachdb/tablewriter
 
 go 1.12
 
